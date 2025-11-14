@@ -12,14 +12,14 @@
 
 import time
 import os
-import sys
+import sys19923846354
 import signal
 import json
 from datetime import datetime, timedelta
 
 # 配置参数（简单明了，小白也能看懂）
-TEL_NUMBER = '15005118976'  # 你的手机号
-TEL_NAME = '张宇'  # 你的名字
+TEL_NUMBER = '19923846354'  # 你的手机号
+TEL_NAME = '沃的发'  # 你的名字
 BROWSER_PATH = r'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
 
 # 进度文件 - 记录处理到哪个网址了
