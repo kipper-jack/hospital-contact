@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+黄莘颖#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 GitHub Actions 专用每日运行脚本
@@ -18,7 +18,7 @@ from DrissionPage import ChromiumPage, ChromiumOptions
 
 # 配置参数
 TEL_NUMBER = '19923846354'
-TEL_NAME = '沃得发'
+TEL_NAME = '黄莘颖'
 
 # 进度文件
 PROGRESS_FILE = 'progress.json'
